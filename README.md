@@ -2,7 +2,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
 # webgems.io
-
+--
 This project should help anyone to find new resources but especially beginners in the field to have something they can look things up.
 
 ## Built With
