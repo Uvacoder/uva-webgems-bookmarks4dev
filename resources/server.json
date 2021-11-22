@@ -3,6 +3,12 @@
   "slug": "/server",
   "resources": [
     {
+      "title": "Vercel",
+      "desc": "Free static hosting with privacy in mind!",
+      "url": "https://vercel.com",
+      "tags": ["cd", "jamstack", "workflow", "host"]
+    },
+    {
       "title": "Netlify",
       "desc": "Free static hosting with privacy in mind!",
       "url": "https://netlify.com",
