@@ -12,7 +12,7 @@
     p.contributors class&nbsp;
       a(href="https://twitter.com/lostdesign") @lostdesign&nbsp;
       span extends&nbsp;
-      a(href="https://github.com/S3B4S") @S3B4S&nbsp;
+      a(href="https://github.com/uvacoder") @uvacoder&nbsp;
       span and&nbsp;
       a(href="https://devcord.com") devcord
 
