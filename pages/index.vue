@@ -10,11 +10,11 @@
     
     p.muted // made with love by
     p.contributors class&nbsp;
-      a(href="https://twitter.com/lostdesign") @lostdesign&nbsp;
+      a(href="https://twitter.com/AlecCam43544378") @AlecCam43544378&nbsp;
       span extends&nbsp;
       a(href="https://github.com/uvacoder") @uvacoder&nbsp;
       span and&nbsp;
-      a(href="https://devcord.com") devcord
+      a(href="https://abclinks.vercel.app") abclinks
 
 
 </template>
