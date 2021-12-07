@@ -1,12 +1,12 @@
 <template lang="pug">
 div
   h1 Legal Notice
-  p Webgems.io is a project of&nbsp;
-    a.highlighted(href="https://lost.design", title="Visit lost.design") www.lost.design
+  p Webgems is a project of&nbsp;
+    a.highlighted(href="https://github.com/uvacoder", title="Visit uvacoder") www.abclinks.vercel.app
 
   h2 Contact
   p
-    a(href="mailto:hello@webgems.io", title="Write webgems an email") hello@webgems.io
+    a(href="mailto:freeunioncoder@gmail.com", title="Write an email") freeunioncoder@gmail.com
 
   h2 Disclaimer
   small Last updated: October 24, 2019
