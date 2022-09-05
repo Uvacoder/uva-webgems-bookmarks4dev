@@ -1,0 +1,30 @@
+{
+  "title": "Portfolios",
+  "slug": "/portfolios",
+  "resources": [
+    {
+      "title": "Theodorus Clarence",
+      "desc": "I work with React Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models.",
+      "url": "https://theodorusclarence.com",
+      "tags": ["portfolio", "articles", "repos", "notes"]
+    },
+    {
+      "title": "Josh Comeau",
+      "desc": "This site teaches the CSS fundamentals that are used in any website's layout.",
+      "url": "https://www.joshwcomeau.com",
+      "tags": ["snippets", "articles", "portfolio"]
+    },
+    {
+      "title": "Lee Rob",
+      "desc": "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
+      "url": "https://leerob.io",
+      "tags": ["articles", "nextjs", "portfolios"]
+    },
+    {
+      "title": "SVG to CSS Base64 background-image",
+      "desc": "This tool will convert your SVG code to CSS background-image compatible Base64 image.",
+      "url": "https://yoksel.github.io/url-encoder/",
+      "tags": ["convert", "generator", "icons"]
+    }
+  ]
+}
