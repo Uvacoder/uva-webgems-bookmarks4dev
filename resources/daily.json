@@ -9,6 +9,12 @@
       "tags": ["community", "reading", "languages", "guides", "tips"]
     },
     {
+      "title": "Hashnode",
+      "desc": "Where programmers share ideas and help each other grow.  Very similar to dev.to.",
+      "url": "https://www.hashnode.dev",
+      "tags": ["community", "reading", "languages", "guides", "tips", "articles"]
+    },
+    {
       "title": "CSS Tricks",
       "desc": "Daily webdev related articles, snippets and guides since 2007",
       "url": "https://css-tricks.com/",
