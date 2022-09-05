@@ -19,11 +19,6 @@
       "desc": "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
       "url": "https://leerob.io",
       "tags": ["articles", "nextjs", "portfolios"]
-    },
-  
-    {
-      "title": "PHP The Wrong Way", "desc": "In the world of PHP programming, a set of trends are massively being propagated by some people (in their books and on websites) as “Modern PHP” while all other approaches are frowned upon as backward, stupid, or just plain wrong.",  "url": "https://phpthewrongway.com",
-      "tags": []
     }
   ]
 }
