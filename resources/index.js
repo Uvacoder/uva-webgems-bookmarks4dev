@@ -8,6 +8,7 @@ import html from './html'
 import javascript from './javascript'
 import php from './php'
 import podcasts from './podcasts'
+import portfolios from './portfolios'
 import python from './python'
 import ruby from './ruby'
 import server from './server'
@@ -34,6 +35,7 @@ export default [
   javascript,
   php,
   podcasts,
+  portfolios
   python,
   ruby,
   server,
