@@ -35,7 +35,7 @@ export default [
   javascript,
   php,
   podcasts,
-  portfolios
+  portfolios,
   python,
   ruby,
   server,
