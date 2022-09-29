@@ -6,25 +6,31 @@
       "title": "Theodorus Clarence",
       "desc": "I work with React Ecosystem, and write to teach people how to rebuild and redefine fundamental concepts through mental models.",
       "url": "https://theodorusclarence.com",
-      "tags": ["portfolio", "articles", "repos", "notes"]
+      "tags": ["portfolio", "articles", "repos", "notes", "blogroll"]
     },
     {
       "title": "Josh Comeau",
       "desc": "This site teaches the CSS fundamentals that are used in any website's layout.",
       "url": "https://www.joshwcomeau.com",
-      "tags": ["snippets", "articles", "portfolio"]
+      "tags": ["snippets", "articles", "portfolio", "blogroll"]
     },
     {
       "title": "Lee Rob",
       "desc": "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
       "url": "https://leerob.io",
-      "tags": ["articles", "nextjs", "portfolios"]
+      "tags": ["articles", "nextjs", "portfolio", "blogroll"]
     },
     {
       "title": "Maggie Appleton",
       "desc": "Maggie makes visual essays about programming, design, and anthropology.",
       "url": "https://maggieappleton.com",
-      "tags": ["articles", "garden", "portfolios"]
+      "tags": ["articles", "garden", "portfolio", "blogroll"]
+    },
+    {
+      "title": "Jacob Paris",
+      "desc": "I help companies save time and make money by improving the quality of their software.",
+      "url": "https://www.jacobparis.com",
+      "tags": ["articles", "reactjs", "portfolio", "blogroll"]
     },
     {
       "title": "SVG to CSS Base64 background-image",
