@@ -21,6 +21,12 @@
       "tags": ["articles", "nextjs", "portfolios"]
     },
     {
+      "title": "Maggie Appleton",
+      "desc": "Maggie makes visual essays about programming, design, and anthropology.",
+      "url": "https://maggieappleton.com",
+      "tags": ["articles", "garden", "portfolios"]
+    },
+    {
       "title": "SVG to CSS Base64 background-image",
       "desc": "This tool will convert your SVG code to CSS background-image compatible Base64 image.",
       "url": "https://yoksel.github.io/url-encoder/",
