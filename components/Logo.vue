@@ -1,7 +1,7 @@
 <template lang="pug">
   .logo(@click="goToHome")
     .gem
-    p webgems
+    p bookmarks4me
 </template>
 
 <script>
