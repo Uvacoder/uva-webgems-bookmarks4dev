@@ -33,7 +33,7 @@ export default {
   },
   data() {
     return {
-      prodBaseUrl: 'https://webgems-abc.vercel.app',
+      prodBaseUrl: 'https://bookmarks-dev.vercel.app',
       showNotice: false,
     }
   },
