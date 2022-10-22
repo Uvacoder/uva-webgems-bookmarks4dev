@@ -6,7 +6,7 @@ import fullstack from './fullstack'
 import general from './general'
 import html from './html'
 import javascript from './javascript'
-import php from './php'
+import portfolio from './portfolio'
 import podcasts from './podcasts'
 import portfolios from './portfolios'
 import python from './python'
@@ -33,7 +33,7 @@ export default [
   general,
   html,
   javascript,
-  php,
+  portfolio,
   podcasts,
   portfolios,
   python,
