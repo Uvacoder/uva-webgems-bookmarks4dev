@@ -19,6 +19,18 @@
       "desc": "Helping developers build a faster web. Teaching about web development, serverless, and React / Next.js.",
       "url": "https://leerob.io",
       "tags": ["articles", "nextjs", "portfolios"]
+    },
+    {
+      "title": "Maggie Appleton",
+      "desc": "Maggie makes visual essays about programming, design, and anthropology.",
+      "url": "https://maggieappleton.com",
+      "tags": ["articles", "garden", "portfolio", "blogroll"]
+    },
+    {
+      "title": "Jacob Paris",
+      "desc": "I help companies save time and make money by improving the quality of their software.",
+      "url": "https://www.jacobparis.com",
+      "tags": ["articles", "reactjs", "portfolio", "blogroll"]
     }
   ]
 }
